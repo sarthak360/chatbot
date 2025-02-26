@@ -1,0 +1,80 @@
+{
+    "schemes": [
+      {
+        "policy_name": "PM Kisan Yojana",
+        "description": {
+          "en": "PM Kisan Yojana is a central government scheme that provides financial support of ₹6,000 per year to farmers.",
+          "hi": "पीएम किसान योजना केंद्र सरकार की एक योजना है जो किसानों को प्रति वर्ष ₹6,000 की वित्तीय सहायता प्रदान करती है।"
+        },
+        "eligibility": {
+          "en": "Farmers with less than 2 hectares of land are eligible.",
+          "hi": "2 हेक्टेयर से कम भूमि वाले किसान पात्र हैं।"
+        },
+        "documents": {
+          "en": "Aadhaar Card, Land Ownership Documents, Bank Account Details.",
+          "hi": "आधार कार्ड, भूमि स्वामित्व दस्तावेज़, बैंक खाता विवरण।"
+        },
+        "benefits": {
+          "en": "Financial support of ₹6,000 per year in three installments.",
+          "hi": "प्रति वर्ष ₹6,000 की वित्तीय सहायता तीन किस्तों में।"
+        }
+      },
+      {
+        "policy_name": "Ayushman Bharat",
+        "description": {
+          "en": "Ayushman Bharat is a health insurance scheme that provides coverage of up to ₹5 lakh per family per year.",
+          "hi": "आयुष्मान भारत एक स्वास्थ्य बीमा योजना है जो प्रति परिवार प्रति वर्ष ₹5 लाख तक का कवर प्रदान करती है।"
+        },
+        "eligibility": {
+          "en": "Families listed in the SECC database with an annual income below ₹5 lakh are eligible.",
+          "hi": "SECC डेटाबेस में सूचीबद्ध और ₹5 लाख से कम वार्षिक आय वाले परिवार पात्र हैं।"
+        },
+        "documents": {
+          "en": "Aadhaar Card, SECC Details, Income Certificate.",
+          "hi": "आधार कार्ड, SECC विवरण, आय प्रमाण पत्र।"
+        },
+        "benefits": {
+          "en": "Health insurance coverage of up to ₹5 lakh per family per year.",
+          "hi": "प्रति परिवार प्रति वर्ष ₹5 लाख तक का स्वास्थ्य बीमा कवर।"
+        }
+      },
+      {
+        "policy_name": "Mukhyamantri Medhavi Vidyarthi Yojana (Madhya Pradesh)",
+        "description": {
+          "en": "A scholarship scheme for meritorious students in Madhya Pradesh.",
+          "hi": "मध्य प्रदेश में मेधावी छात्रों के लिए छात्रवृत्ति योजना।"
+        },
+        "eligibility": {
+          "en": "Students who score above 85% in Class 12 and are residents of Madhya Pradesh.",
+          "hi": "कक्षा 12 में 85% से अधिक अंक प्राप्त करने वाले और मध्य प्रदेश के निवासी छात्र।"
+        },
+        "documents": {
+          "en": "Class 12 Mark Sheet, Aadhaar Card, Domicile Certificate.",
+          "hi": "कक्षा 12 का मार्कशीट, आधार कार्ड, डोमिसाइल प्रमाण पत्र।"
+        },
+        "benefits": {
+          "en": "Scholarship of up to ₹25,000 per year for higher education.",
+          "hi": "उच्च शिक्षा के लिए प्रति वर्ष ₹25,000 तक की छात्रवृत्ति।"
+        }
+      },
+      {
+        "policy_name": "Mukhyamantri Kisan Kalyan Yojana (Madhya Pradesh)",
+        "description": {
+          "en": "A scheme to provide financial assistance to farmers in Madhya Pradesh.",
+          "hi": "मध्य प्रदेश में किसानों को वित्तीय सहायता प्रदान करने की योजना।"
+        },
+        "eligibility": {
+          "en": "Farmers with less than 2 hectares of land in Madhya Pradesh.",
+          "hi": "मध्य प्रदेश में 2 हेक्टेयर से कम भूमि वाले किसान।"
+        },
+        "documents": {
+          "en": "Aadhaar Card, Land Ownership Documents, Bank Account Details.",
+          "hi": "आधार कार्ड, भूमि स्वामित्व दस्तावेज़, बैंक खाता विवरण।"
+        },
+        "benefits": {
+          "en": "Financial assistance of ₹4,000 per year.",
+          "hi": "प्रति वर्ष ₹4,000 की वित्तीय सहायता।"
+        }
+      }
+    ]
+  }
