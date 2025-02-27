@@ -1,8 +1,9 @@
 from flask import Flask, request, jsonify
 import json
+
 app = Flask(__name__)
 
-# Load the JSON dataset
+# Load the dataset
 with open('schemes.json', 'r') as file:
     schemes_data = json.load(file)
 
@@ -30,4 +31,4 @@ def webhook():
     return jsonify(response)
 
 if __name__ == '__main__':
-    app.run(port=5000)
+    app.run(host='0.0.0.0', port=5000)
